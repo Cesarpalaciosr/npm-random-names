@@ -13,8 +13,16 @@
   ],
   "author": "Cesar P",
   "license": "MIT",
-  "bin":{
-    "random-msg": "./bin/global.js"
+  "bin": {
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cesarpalaciosr/npm-random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cesarpalaciosr/npm-random-names/issues"
+  },
+  "homepage": "https://github.com/Cesarpalaciosr/npm-random-names#readme"
 }
